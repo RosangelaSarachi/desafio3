@@ -18,9 +18,9 @@ Se você não souber por onde está caminhando, dificilmente chegará a seu dest
 
 ![html5](./img/html.png) ![css](./img/css.png) ![](./img/git.png) ![javascript](./img/javascript.png) ![GitHub](./img/github.png) ![react](./img/react.png) ![bootstrap](./img/bootstrap.png) ![js](./img/node-js.png)
 
-- [ ] História
-- [ ] HTML
-- [ ] CSS
+- [X] História
+- [X] HTML
+- [X] CSS
 - [ ] Git
 - [ ] Lógica de programação
 - [ ] Javascript
